@@ -2,7 +2,7 @@ a）水脈 DAO 概要資料
 https://docs.google.com/presentation/d/1MGBaw66jZeRzxuqVg1rY8jB57wwGJ7kg/edit?usp=sharing&ouid=103538862845825921640&rtpof=true&sd=true
 
 b) デモサイト
-https://suimyakudao-3rw60z90j-shtt0s-projects.vercel.app/
+https://suimyakudao.vercel.app/
 
 c) 機能説明
 1- DAO 参加のための Membership NFT 購入（Home 画面）
